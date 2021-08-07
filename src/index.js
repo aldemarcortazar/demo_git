@@ -13,3 +13,7 @@ fetch(`https://api.giphy.com/v1/gifs/random?api_key=${apikey}`)
         document.body.append($image);
         console.log($image);
     });
+
+
+
+console.log('hola');
